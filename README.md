@@ -3,8 +3,7 @@
 
 ### Repositório para armazenar o Projeto DashBoard de Vendas do XBox com Excel.
 
-### Para este exercício simulando a visão estratégica de resultados, foi criada conversão de moeda (Real x Dolar) e visões para cada moeda, do mesmo painel, embutindo um campo para coleta da cotação do dolar do dia. No caso, como a base já estava em reais, foi utilizada a conversão para dolares e um painel em ingles e o outro em português.
-
+### Para este exercício simulando a visão estratégica de resultados, foi criada conversão de moeda (Real x Dolar) e visões para cada moeda, do mesmo painel, embutindo um campo para coleta da cotação do dolar do dia. No caso, como a base já estava em reais, foi utilizada a conversão para dolares e um painel em ingles e o outro em português. Sendo assim, o arquivo anexado é uma planilha no padrão XLSM, habilitado para macros.
 -----
 
 ## Descrição do Objetivo e Recursos Utilizados:
